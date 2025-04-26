@@ -1,6 +1,6 @@
 # Biblioteca Web 📚
 
-**Autores**: Nombre Apellido, Nombre Apellido  
+**Autores**: Jhon Sebastian Becerra  
 **Fecha**: Abril 2025  
 
 ## 📝 Descripción
